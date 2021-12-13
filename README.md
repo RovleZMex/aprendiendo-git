@@ -10,8 +10,9 @@
 * está
 * ordenado
 
-Esto está **en negritas** y esto en *italicas*c
+Esto está **en negritas** y esto en *italicas*
 
+Aquí hay otro cambio de práctica
 
 Estoy aprendiendo git :+1:
 
