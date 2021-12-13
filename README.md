@@ -10,6 +10,8 @@
 * está
 * ordenado
 
+Esto está **en negritas** y esto en *italicas*c
+
 
 Estoy aprendiendo git :+1:
 
